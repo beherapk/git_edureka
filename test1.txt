@@ -1,2 +1,2 @@
 New line in test
-Another line in test
+Another line in test.txt
